@@ -1,0 +1,6 @@
+# Cabal package manager stuff
+.cabal-sandbox
+cabal.sandbox.config
+dist
+HaskManager.cabal
+Setup.hs
